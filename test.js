@@ -1,3 +1,5 @@
 console.log('hi');
 console.log('new');
-console.log('branch 3');
+console.log('new commit');
+console.log('new feature');
+
